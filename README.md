@@ -26,5 +26,12 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![exp 10](https://github.com/user-attachments/assets/5d96d566-5146-45a0-991c-d0aa1307ee68)
+![exp 10(!)](https://github.com/user-attachments/assets/61b41169-12c9-46d6-ae4f-24550b540cc3)
+![exp 10(2)](https://github.com/user-attachments/assets/d5cb8c73-8037-4646-9a01-c34191f7f538)
+
+![exp 10(3)](https://github.com/user-attachments/assets/6a7247b1-2b73-457a-bbae-8806231a325b)
+
 
 ### Result:
+Thus, sentimental analysis for any data set using Rapidminer is done successfully.
